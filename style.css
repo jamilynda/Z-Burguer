@@ -1,2 +1,22 @@
 P{
-    text-aling: center;
+    text-align: center;
+}
+body {
+    background: #e2970c;
+    font-size: 20px;
+}
+h1 {text-align: center;
+    background: #e8de56;
+    border-radius: 80%  ;
+}
+b{
+    color:rgb(196,231,70)
+}
+#burguer{
+    width: 6%;
+    height: 10%;
+}
+
+h1(font-size: 
+
+
